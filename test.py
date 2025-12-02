@@ -11,3 +11,5 @@ save = save_to_csv(df, 'cryptos_raw.csv')
 #test = fetch_crypto_data()
 
 #data = transform_data()
+
+#test sincronization
